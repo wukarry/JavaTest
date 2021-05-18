@@ -13,5 +13,7 @@
   </head>
   <body>
   hello~ it is a test website.
+  <button type="button" onclick="myFunction">click here </button>
+  <script src="myScript.js"></script>
   </body>
 </html>
